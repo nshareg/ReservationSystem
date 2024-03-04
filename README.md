@@ -20,8 +20,8 @@ The Football Game Ticket Reservation System is designed to facilitate the proces
 
 ## Technologies Used
 - **Programming Language**: Java
-- **User Interface**: JavaFX
-- **Database**: MySQL
+- **User Interface**: Swing
+- **Database**: Hold in file with encryption
 - **Version Control**: Git
 
 ## Installation
