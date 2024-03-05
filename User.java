@@ -1,6 +1,5 @@
 public class User extends SuperUser{
     private int balance;
-
     public User(String name, String surname, int balance){
         setName(name);
         setSurname(surname);
@@ -9,7 +8,7 @@ public class User extends SuperUser{
     public User(String name, String surname, String username){
         setName(name);
         setSurname(surname);
-        setBalance(balance);
+        setUsername(username);
     }
     public User(String username){
         setUsername(username);
